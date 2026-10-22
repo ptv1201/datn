@@ -1,0 +1,2 @@
+raw_text,expected_people_json
+"[DỮ LIỆU HƯ CẤU] Nhân Vật Mẫu Một, năm sinh 1941; Nhân Vật Mẫu Hai, quê Hà Nội.","[{""full_name"":""Nhân Vật Mẫu Một"",""birth_year"":""1941""},{""full_name"":""Nhân Vật Mẫu Hai"",""hometown"":""Hà Nội""}]"
